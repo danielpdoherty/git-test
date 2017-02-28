@@ -1,2 +1,2 @@
 # git-test
-first test
+second test
